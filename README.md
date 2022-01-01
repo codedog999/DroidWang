@@ -1,4 +1,4 @@
-## 👋 Hi, I’m YONGSI Wang <a href="https://mutou127.top/" title="" target="_blank">(mutou127`🔊`)</a> 
+## 👋 Hi, I’m YONGSI Wang <a href="https://mutou127.top/" target="_blank">(mutou127`🔊`)</a> 
 
 - :mortar_board: A student
 - :coffee: A back-end programmer(Mainly Java)
